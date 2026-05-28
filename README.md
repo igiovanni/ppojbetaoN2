@@ -1,12 +1,13 @@
-A senha do banco de dados é Athena@12
-</div>
-o bando esta no mysql
-</div>
-após fazer qualquer alteração comentar aqui
-</div>
-feito parte de banco de dados do login ja com vbalidação de campos em branco
-</div>
-login/senha adm/adm
-</div>
-cadastro foi tirado da pagina de login pois somente o adm pode fazer novos cadastros
-</div>
+# Sistema Fatec
+
+## Banco de dados
+O banco está no arquivo banco.sql
+
+## Login ADM
+Usuário: adm
+Senha: adm
+
+## Observações
+- Cadastro removido da tela de login
+- Apenas administrador pode cadastrar
+- Após alterações, comentar no repositório
